@@ -3,5 +3,5 @@
 
 
 #### Projects:
-[Dustin Brett Windows OS Cloned (daedalOS)](https://dustinbrett.com/)
+[Dustin Brett: Windows OS Cloned (daedalOS)](https://dustinbrett.com/)
 
