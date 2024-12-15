@@ -2,5 +2,5 @@
 ##### Here's a list of some awesome websites/preojects and resources too!
 
 
-[Windows OS Cloned](https://dustinbrett.com/)
+[Dustin Brett Windows OS Cloned (daedalOS)](https://dustinbrett.com/)
 
